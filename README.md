@@ -33,6 +33,6 @@ The simple enough online application that allows the user to check the weather i
 
 <h3> Acknowledgements </h3>
 
-- [Thanks to the Net Ninja for unsurpassed tutorials!](https://netninja.dev/)
+- Thanks to the [Net Ninja](https://netninja.dev/) for unsurpassed tutorials!
 - Weather forecast is created with the help of [Accu Weather APIs](https://developer.accuweather.com/)
 - Simple but splendid weather icons by [Adam Whitcroft](https://adamwhitcroft.com/)
