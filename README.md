@@ -1,6 +1,6 @@
 <h1> Weather Forecast App :cloud: </h1>
 
-The simple enough online application that allows the user to check the weather in a desired location.
+Simple online application that allows the user to check the weather in a desired location.
 
 <h2> Screenshots </h2>
 
