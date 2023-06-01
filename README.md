@@ -1,6 +1,7 @@
 <h1> Weather Forecast App :cloud: </h1>
 
 Simple online application that allows the user to check the weather in a desired location.
+<br>
 [Live preview 🌞](https://grinushka.github.io/weather-app/)
 
 <h2> Screenshots </h2>
