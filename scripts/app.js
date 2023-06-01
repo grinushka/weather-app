@@ -1,5 +1,4 @@
 // Handling DOM and EventListeners
-
 const cityForm = document.querySelector("form");
 const card = document.querySelector(".card");
 const details = document.querySelector(".details");
@@ -8,12 +7,13 @@ const icon = document.querySelector(".icon img");
 const forecast = new Forecast();
 
 const updateUI = (data) => {
-  // long way
-  const cityDets = data.cityDets;
-  const weather = data.weather;
 
-  // destruct objects
-  // const { cityDets, weather } = data;
+  // destruct the object
+  const { cityDets, weather } = data;
+
+  // long way of doign the same from above
+  // const cityDets = data.cityDets;
+  // const weather = data.weather;
 
   // update details template
   details.innerHTML = `<h5 class="my-3">${cityDets.EnglishName}</h5>
